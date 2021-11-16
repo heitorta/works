@@ -1,3 +1,4 @@
+#This program shows the pandemic impact on households in Brazil. 
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
