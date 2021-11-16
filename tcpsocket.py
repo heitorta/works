@@ -1,3 +1,4 @@
+#Program runs a tcp socket.
 from os import terminal_size
 import os
 import socket
