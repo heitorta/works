@@ -1,3 +1,4 @@
+#This program runs an udp socket using Python.
 import sys
 import socket
 def main():
